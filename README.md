@@ -1,2 +1,2 @@
-# Genesis
-First game coded in C++
+# Prototype
+First game coded in Godot Engine
