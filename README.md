@@ -1,2 +1,2 @@
 # Prototype
-First game coded in Godot Engine
+First game coded in C++
