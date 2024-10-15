@@ -1,2 +1,2 @@
 # Prototype
-First game coded in Unreal Engine 5.
+First game coded in C++.
