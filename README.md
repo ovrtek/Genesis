@@ -1,2 +1,2 @@
 # Prototype
-First project coded in C++.
+First software coded in C++.
