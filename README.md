@@ -1,2 +1,2 @@
 # Prototype
-First game coded in C++.
+First project coded in C++.
